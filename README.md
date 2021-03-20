@@ -1,5 +1,5 @@
-# AquariumVisualizer
-Simulates 2D objects swimming in a virtual tank in Renpy (Python-powered). August 2020.
+# AquariumVisualizer (Renpy)
+Simulates 2D objects swimming in a virtual tank in Renpy. August 2020.
 
 - *insert video here in future update*
 
