@@ -8,7 +8,7 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
 ![akagi1](https://user-images.githubusercontent.com/80881875/113247044-2f32d480-9288-11eb-8848-43f66b92b417.png)
 
 *Features*
- - Transforms: To achieve a more realistic look of characters "floating in the water", used a mix of Robert Penner's easing functions (https://easings.net/) to interpolate
+ - Transforms: To achieve a more realistic look of characters "floating in the water", I used a mix of Robert Penner's easing functions (https://easings.net/) to interpolate. Here's some more information for Renpy's API, under the 'Warpers' section: https://www.renpy.org/doc/html/atl.html
  - Animated Background (Lighting changes)
  - Images: Eight animated characters, animated seaweed (foreground and background), floating bubbles, small particles
  - Sound Effects: Aquarium BGM credit to Calming Tones on Youtube: https://www.youtube.com/watch?v=_J_C7SESXhs
