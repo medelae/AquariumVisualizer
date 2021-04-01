@@ -7,8 +7,9 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
 
 ![akagi1](https://user-images.githubusercontent.com/80881875/113247044-2f32d480-9288-11eb-8848-43f66b92b417.png)
 
-Future Goals / Projects: 
-- I want to make this into an actual screensaver! Probably in an object-oriented language with GIF support .
+Future To-Do: 
+- I want to make this into an actual screensaver! Probably in an object-oriented language.
+- Might add in some customization options, e.g. changing the background to a swimming pool.
 
 ![image](https://user-images.githubusercontent.com/80881875/113245316-b1b99500-9284-11eb-99b4-ae55a469a162.png)
 
