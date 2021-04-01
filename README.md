@@ -10,7 +10,7 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
 *Features*
  - Transforms: To achieve a more realistic look of characters floating in the water, I used a combination of easing function Warpers. Here's a link to Renpy's ATL API, where it's explained in more detail: https://www.renpy.org/doc/html/atl.html
  - Images: Eight animated characters, animated background (lighting changes), animated seaweed (foreground and background), floating bubbles, small floating particles
- - Sound Effects: Aquarium BGM credit to Calming Tones on Youtube: https://www.youtube.com/watch?v=_J_C7SESXhs
+ - Sound Effects: Aquarium BGM credit to Calming Tones on Youtube: https://www.youtube.com/watch?v=_J_C7SESXhs (file not included)
 
 *Future To-Do*
 - I want to make this into an actual screensaver! Probably in an object-oriented language.
