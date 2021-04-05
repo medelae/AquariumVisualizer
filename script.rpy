@@ -38,7 +38,7 @@ label start:
     # HIM - Powerpuff Girls Villain
     show HIM:
         xalign 0.96 yalign 0.75
-        flip2
+        flip_HIM
 
     # Smile - Ping Pong
     show smile:
