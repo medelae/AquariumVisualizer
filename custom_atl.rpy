@@ -1,9 +1,6 @@
 # This file defines the images, assets, and transformations used in the main script file.
 
-init:
-    python:
 
-        import random
 
 # IMAGE POSITIONING ------------------------------------------------------------
 
@@ -17,6 +14,7 @@ default timer = renpy.random.random()
 default smile_timer = renpy.random.random()
 
 init python:
+    import random
 
     # pause for a random number of seconds (2~7)
     def timer_2_7(trans, st, at):
