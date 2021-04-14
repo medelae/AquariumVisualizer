@@ -24,11 +24,11 @@ label start:
     show bgSeaweed:
         xalign 0.35 yalign 1.0
 
-    # Bubble Effect
-    label aquariumBubbles:
+    # Show bubbles and floating particles
+    label bubbles:
         show bubbles_xs
         show bubbles_s
-        show bubbles_s2
+        show bubbles_sv2
         show bubbles_m
         show bubbles_l
         show bubbles_xl
