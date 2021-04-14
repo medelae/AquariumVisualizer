@@ -1,7 +1,10 @@
 # AquariumVisualizer
 Simulates 2D objects swimming in a virtual tank in Ren'Py. August 2020.
 
-- *insert video here in future update*
+Video Preview:
+https://user-images.githubusercontent.com/80881875/114669464-ec352000-9ccf-11eb-8a6f-5b5460edcf33.mp4
+
+![image](https://user-images.githubusercontent.com/80881875/113245316-b1b99500-9284-11eb-99b4-ae55a469a162.png)
 
 This was a fun present for a friend! I hand-drew and animated his favorite characters going for a swim. The "fishy" movement is a combination of transforms, varying alpha channels, and interpolation motion programming via RenPy's Animation and Transform Language (ATL).
 
@@ -16,11 +19,6 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
 - I want to make this into an actual screensaver! Probably in an object-oriented language. I ran into some limitations with Ren'Py.
 - Might add in some customization options, e.g. changing the background to a swimming pool.
 
-![image](https://user-images.githubusercontent.com/80881875/113245316-b1b99500-9284-11eb-99b4-ae55a469a162.png)
-(This looks pretty ridiculous, admittedly, haha.)
-
-
 *Credits and Disclaimers*
-
 Personal-use-only project. I hand-drew most of the images, but I do not own the copyrights to the characters, photography, or sound effects.
 Background photo (with the humans and fish photoshopped out) is by Greg Jeanneau, from Unsplash: https://unsplash.com/photos/OAq7EtOaPtc
