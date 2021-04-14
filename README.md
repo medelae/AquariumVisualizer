@@ -13,9 +13,14 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
  - Sound Effects: Aquarium BGM credit to Calming Tones on Youtube: https://www.youtube.com/watch?v=_J_C7SESXhs (file not included)
 
 *Future To-Do*
-- I want to make this into an actual screensaver! Probably in an object-oriented language.
+- I want to make this into an actual screensaver! Probably in an object-oriented language. I ran into some limitations with Ren'Py that I wasn't expecting.
 - Might add in some customization options, e.g. changing the background to a swimming pool.
 
 ![image](https://user-images.githubusercontent.com/80881875/113245316-b1b99500-9284-11eb-99b4-ae55a469a162.png)
+(This looks pretty ridiculous, hahaha.)
 
-\* Disclaimers: Personal-use-only project. I do not own the copyrights to these characters or sound effects.
+
+*Credits and Disclaimers*
+
+Personal-use-only project. I hand-drew most of the images, but I do not own the copyrights to the characters, photography, or sound effects.
+Background photo (with the humans and fish photoshopped out) is from this commercial-free archive: https://unsplash.com/photos/OAq7EtOaPtc
