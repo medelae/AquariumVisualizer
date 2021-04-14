@@ -14,7 +14,7 @@ label start:
 
     # Main Aquarium Screen -----------------------------------------------------
 
-    # Aquarium bubbles sound effect (on repeat)
+    # INSERT BACKGROUND MUSIC/SFX HERE
     # $renpy.sound.play("sounds/INSERT_SOUND_FILE_HERE.MP3", loop=True)
 
     # Ocean background image
