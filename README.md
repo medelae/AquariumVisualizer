@@ -23,4 +23,4 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
 *Credits and Disclaimers*
 
 Personal-use-only project. I hand-drew most of the images, but I do not own the copyrights to the characters, photography, or sound effects.
-Background photo (with the humans and fish photoshopped out) is from this commercial-free archive: https://unsplash.com/photos/OAq7EtOaPtc
+Background photo (with the humans and fish photoshopped out) is by Greg Jeanneau, from Unsplash: https://unsplash.com/photos/OAq7EtOaPtc
