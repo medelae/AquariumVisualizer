@@ -16,12 +16,12 @@ default smile_timer = renpy.random.random()
 init python:
     import random
 
-    # pause for a random number of seconds (2~7)
-    def timer_2_7(trans, st, at):
+    # pause for a random number of seconds (4~9)
+    def timer_4_9(trans, st, at):
         global timer
 
         if st >= timer:
-            timer = renpy.random.uniform(2,7)
+            timer = renpy.random.uniform(4,9)
             return None
         else:
             return 0
@@ -293,42 +293,42 @@ transform swim:
 transform swim_LeftAndRight:
 
     choice:
-        linear random.uniform(4,10) xalign random.uniform (-0.5, 0.5)
+        linear random.uniform(6,13) xalign random.uniform (-0.5, 0.5)
 
     choice:
-        easein random.uniform(4,10) xalign random.uniform (0.5, 1.3)
+        easein random.uniform(6,13) xalign random.uniform (0.5, 1.3)
 
     choice:
-        easein random.uniform(4,10) xalign random.uniform (-0.5, 0.5)
+        easein random.uniform(6,13) xalign random.uniform (-0.5, 0.5)
 
     choice:
-        easein random.uniform(4,10) xalign random.uniform (0.25, 0.75)
+        easein random.uniform(6,13) xalign random.uniform (0.25, 0.75)
 
     choice:
-        linear random.uniform(4,10) xalign random.uniform (0.25, 0.75)
+        linear random.uniform(6,13) xalign random.uniform (0.25, 0.75)
 
     choice:
-        easein random.uniform(4,10) xalign random.uniform (0.25, 0.75)
+        easein random.uniform(6,13) xalign random.uniform (0.25, 0.75)
 
     choice:
-        easeout random.uniform(4,10) xalign 0.0
+        easeout random.uniform(6,13) xalign 0.0
 
     choice:
-        easeout random.uniform(4,10) xalign 1.0
+        easeout random.uniform(6,13) xalign 1.0
 
     # duplicates below -----------------
 
     choice:
-        easeout random.uniform(4,10) xalign random.uniform (-0.5, 0.5)
+        easeout random.uniform(6,13) xalign random.uniform (-0.5, 0.5)
 
     choice:
-        easeout random.uniform(4,10) xalign random.uniform (0.5, 1.3)
+        easeout random.uniform(6,13) xalign random.uniform (0.5, 1.3)
 
     choice:
-        easein random.uniform(4,10) xalign random.uniform (-0.5, 0.5)
+        easein random.uniform(6,13) xalign random.uniform (-0.5, 0.5)
 
     choice:
-        easein random.uniform(4,10) xalign random.uniform (0.5, 1.3)
+        easein random.uniform(6,13) xalign random.uniform (0.5, 1.3)
 
     repeat
 
@@ -336,36 +336,36 @@ transform swim_LeftAndRight:
 transform swim_UpAndDown:
 
     choice:
-        ease random.uniform(4,10) yalign random.uniform (0.0, 0.5)
+        ease random.uniform(6,13) yalign random.uniform (0.0, 0.5)
 
     choice:
-        ease random.uniform(4,10) yalign random.uniform (0.5, 1.3)
+        ease random.uniform(6,13) yalign random.uniform (0.5, 1.3)
 
     choice:
-        ease  random.uniform(4,10) yalign random.uniform (0.0, 0.5)
+        ease  random.uniform(6,13) yalign random.uniform (0.0, 0.5)
 
     choice:
-        ease random.uniform(4,10) yalign random.uniform (0.5, 1.3)
+        ease random.uniform(6,13) yalign random.uniform (0.5, 1.3)
 
     choice:
-        ease random.uniform(4,10) yalign 0.0
+        ease random.uniform(6,13) yalign 0.0
 
     choice:
-        ease random.uniform(4,10) yalign 1.0
+        ease random.uniform(6,13) yalign 1.0
 
     # duplicates below -----------------
 
     choice:
-        ease random.uniform(4,10) yalign random.uniform (0.0, 0.5)
+        ease random.uniform(6,13) yalign random.uniform (0.0, 0.5)
 
     choice:
-        ease random.uniform(4,10) yalign random.uniform (0.5, 1.3)
+        ease random.uniform(6,13) yalign random.uniform (0.5, 1.3)
 
     choice:
-        ease random.uniform(4,10) yalign random.uniform (0.0, 0.5)
+        ease random.uniform(6,13) yalign random.uniform (0.0, 0.5)
 
     choice:
-        ease random.uniform(4,10) yalign random.uniform (0.5, 1.3)
+        ease random.uniform(6,13) yalign random.uniform (0.5, 1.3)
 
     choice:
         pause 1.0
@@ -390,7 +390,7 @@ transform flip:
         linear 1.5 xzoom -1.0
 
     choice:
-        function timer_2_7
+        function timer_4_9
         linear 1.5 xzoom -1.0
 
     choice:
@@ -398,7 +398,7 @@ transform flip:
         linear 1.5 xzoom 1.0
 
     choice:
-        function timer_2_7
+        function timer_4_9
         linear 1.5 xzoom 1.0
 
     repeat
@@ -416,12 +416,12 @@ transform flip_HIM:
 
     choice:
 
-        function timer_2_7
+        function timer_4_9
         linear 0.5 xzoom -1.0
 
     choice:
 
-        function timer_2_7
+        function timer_4_9
         linear 0.5 xzoom 1.0
 
     repeat
