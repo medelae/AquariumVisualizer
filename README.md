@@ -17,7 +17,7 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
 - Might add in some customization options, e.g. changing the background to a swimming pool.
 
 ![image](https://user-images.githubusercontent.com/80881875/113245316-b1b99500-9284-11eb-99b4-ae55a469a162.png)
-(This looks pretty ridiculous, hahaha.)
+(This looks pretty ridiculous, haha.)
 
 
 *Credits and Disclaimers*
