@@ -1,5 +1,5 @@
 # AquariumVisualizer
-Simulates 2D objects swimming in a virtual tank in Ren'Py. August 2020.
+Simulates 2D characters swimming in a virtual tank in Ren'Py. August 2020.
 
 Video Preview:
 https://user-images.githubusercontent.com/80881875/114669464-ec352000-9ccf-11eb-8a6f-5b5460edcf33.mp4
