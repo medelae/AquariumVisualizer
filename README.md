@@ -20,5 +20,5 @@ This was a fun present for a friend! I hand-drew and animated his favorite chara
 - Might add in some customization options, e.g. changing the background to a swimming pool.
 
 *Credits and Disclaimers*
-Personal-use-only project. I hand-drew most of the images, but I do not own the copyrights to the characters, photography, or sound effects.
+- Personal-use-only project. I hand-drew most of the images, but I do not own the copyrights to the characters, photography, or sound effects.
 Background photo (with the humans and fish photoshopped out) is by Greg Jeanneau, from Unsplash: https://unsplash.com/photos/OAq7EtOaPtc
