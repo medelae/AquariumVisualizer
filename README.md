@@ -6,7 +6,7 @@ Simulates 2D characters swimming in a virtual tank in Ren'Py. August 2020.
 Full Video Preview:
 https://user-images.githubusercontent.com/80881875/114669464-ec352000-9ccf-11eb-8a6f-5b5460edcf33.mp4
 
-This was a fun and silly little present for a friend. I hand-drew and animated his favorite characters going for a swim. The "fishy" movement is a combination of transforms, varying alpha channels, and interpolation motion programming via RenPy's Animation and Transform Language (ATL).
+This was a fun and silly present for a friend. I hand-drew and animated his favorite characters going for a swim. The "fishy" movement is a combination of transforms, varying alpha channels, and interpolation motion programming via RenPy's Animation and Transform Language (ATL).
 
 ![image](https://user-images.githubusercontent.com/80881875/113245316-b1b99500-9284-11eb-99b4-ae55a469a162.png)
 
